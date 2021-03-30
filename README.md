@@ -1,2 +1,10 @@
 # style
-scrollbar, body style, resets, scss variables, atomics
+
+## scrollbar
+
+## body style
+- margin resets
+ 
+## scss variables
+
+## atomics
